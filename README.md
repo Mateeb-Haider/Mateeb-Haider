@@ -17,7 +17,7 @@ const mateeb = {
         "Solved 100+ LeetCode Problems",
         "Deployed Apps on Vercel with 99.9% Uptime"
     ],
-    motto: "Turning Ideas Into Reality, One Commit at a Time 💻✨"
+    motto: "Turning Ideas Into Reality, One Commit at a Time 💻"
 };
 ```
 
@@ -56,12 +56,12 @@ const mateeb = {
 
 ## 🛠️ Tech Arsenal
 
-### **Frontend Magic** ✨
+### **Frontend Magic** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,tailwind,html,css" alt="Frontend Skills"/>
 </p>
 
-### **Backend Power** 💪
+### **Backend Power** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills"/>
 </p>
@@ -76,7 +76,7 @@ const mateeb = {
   <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript" alt="Languages"/>
 </p>
 
-### **Currently Exploring** 🌱
+### **Currently Exploring** 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,prisma,graphql" alt="Learning"/>
 </p>
@@ -92,16 +92,6 @@ const mateeb = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/? user=Mateeb-Haider&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Achievements & Stats
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/? username=Mateeb-Haider&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
-
 </div>
 
 
