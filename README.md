@@ -4,7 +4,6 @@
 
 ```javascript
 const mateeb = {
-    location:  "Pakistan 🇵🇰",
     currentFocus:  "Building Production-Ready SAAS Applications",
     portfolio: "https://mateebhaider.netlify.app/",
     linkedin: "linkedin.com/in/mateeb-haider",
