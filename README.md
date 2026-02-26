@@ -84,19 +84,26 @@ const mateeb = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateeb-Haider&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateeb-Haider&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</div>
+<!-- ================== GitHub Stats Section ================== -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mateeb-Haider&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateeb-Haider&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateeb-Haider&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mateeb-Haider&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img height="170em"
+       src="https://streak-stats.demolab.com/?user=Mateeb-Haider&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+
+
 </div>
 
+<!-- ================== End Section ================== -->
 
 
 ---
