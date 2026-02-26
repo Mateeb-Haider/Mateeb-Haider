@@ -82,30 +82,28 @@ const mateeb = {
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-<!-- ================== GitHub Stats Section ================== -->
-
-<div align="center">
-  <img height="180em" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateeb-Haider&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-  <img height="180em" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateeb-Haider&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateeb-Haider&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    </td>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateeb-Haider&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img height="170em"
+<p align="center" >
+  <img height="180em"
        src="https://streak-stats.demolab.com/?user=Mateeb-Haider&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
-
-
-</div>
-
-<!-- ================== End Section ================== -->
-
-
+</p>
 ---
 
 
