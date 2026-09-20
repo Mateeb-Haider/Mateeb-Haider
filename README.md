@@ -12,7 +12,7 @@
 
 ## About Me
 
-Final-year Computer Science student and **GSoC 2026 contributor** at FOSSASIA. I build production-grade systems at the intersection of distributed infrastructure and developer tooling.
+ Computer Science student and **GSoC 2026 contributor** at FOSSASIA. I build production-grade systems at the intersection of distributed infrastructure and developer tooling.
 
 **What I do:**
 - Architect scalable full-stack applications with TypeScript, React, Node.js
